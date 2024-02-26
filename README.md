@@ -1,4 +1,4 @@
-** End to End ML Challenge **
+**End to End ML Challenge**
 
 In this challenge, we will attempt to do an end to end ML project. 
 
